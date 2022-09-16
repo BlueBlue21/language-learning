@@ -1,4 +1,4 @@
-# Learning Languages
+# Learning Languages ✨
 
 I learing programming languages!
 
