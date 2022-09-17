@@ -2,6 +2,8 @@
 
 I learing programming languages!
 
+[Javascript learning site!](https://learnjs.vlpt.us)
+
 |Languages |Done?|
 |:--------:|:---:|
 |Javascript|No   |
