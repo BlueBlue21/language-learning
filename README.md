@@ -1,14 +1,12 @@
-# Learning Languages ✨
+# Learning languages ✨
 
-I learing programming languages!
+I learing programming languages.
 
-[Javascript learning site!](https://learnjs.vlpt.us)
-
-|Languages |Done?|
-|:--------:|:---:|
-|Javascript|No   |
-|Typescript|No   |
-|Golang    |No   |
-|Python    |No   |
-|Rust      |No   |
-|C/C++     |No   |
+|Languages |Done?                        |
+|:--------:|:---------------------------:|
+|[Javascript](https://learnjs.vlpt.us)|No|
+|Typescript|No                           |
+|Golang    |No                           |
+|Python    |No                           |
+|Rust      |No                           |
+|C/C++     |No                           |
