@@ -1,6 +1,6 @@
-# Learning languages ✨
+# Languages Learning ✨
 
-I learing programming languages.
+I learing Programming Languages.
 
 |Languages|Done?|
 |:-------:|:---:|
